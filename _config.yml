@@ -6,9 +6,9 @@ color:
   saturation: 0.2975337551906705
   rhythmicContrast: 0.6273753100540489
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
 name: iamjasonhill
